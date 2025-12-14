@@ -1,2 +1,3 @@
 # Employee-Payroll-System
-This is oops based project
+Technologies: Java | OOPS
+This is Oops based Employee Payroll System.
